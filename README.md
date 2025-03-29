@@ -73,7 +73,7 @@ The API returns structured error messages for invalid requests:
 1. **Clone the repository** (if applicable)  
    ```bash
    git clone https://github.com/AnudhaUthsala/sit323-2025-prac4c.git
-   cd calculator-microservice
+   cd sit323-2025-prac4c
    ```
 
 2. **Install dependencies**  
